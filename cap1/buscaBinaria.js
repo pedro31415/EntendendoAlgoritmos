@@ -20,5 +20,5 @@ function buscaBinaria(list, key){
 
 const vet = [1,3,4,7,8,9];
 
-console.log(buscaBinaria(vet,4));
-console.log(buscaBinaria(vet,10));
+console.log(buscaBinaria(vet,4)); // 2
+console.log(buscaBinaria(vet,10)); // -1
